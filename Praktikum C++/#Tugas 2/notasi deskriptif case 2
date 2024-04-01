@@ -1,0 +1,16 @@
+#.algoritma menghitung nilai akhir mahasiswa
+1.mulai memasukan inputan
+2. masukan NIM siswa yang akan dicari nilai akhir
+3.masukan nama siswa tersebut
+4. masukan nilai keaktifan
+5.masukan nilai tugas 
+6.masukan nilai ujian
+7.program mengeksekusi nilai akhir siswa yang diambil dari nilai keaktifan,nilai tugas dan nilai ujian
+8.program menampilkan keluaran
+Siswa yang bernama ……
+Dengan Nilai Persentasi Yang dihasilkan.
+Nilai Keaktifan * 20% : ……
+Nilai Tugas * 50% : ……
+Nilai Ujian * 30% : ……
+Jadi Siswa yang bernama …… memperoleh nilai akhir sebesar …..
+ 9..selesai
